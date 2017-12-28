@@ -1,5 +1,5 @@
 module.exports = {
-  host: "pool.supportxmr.com",
+  host: "etn.exapool.ovh",
   port: 3333,
   pass: "x",
   ssl: false,
